@@ -1,2 +1,7 @@
 # EdgeLedger-Responsive-Website-For-Mobile-Using-Flexbox
-html/css application using flexbox to make a responsive website for mobile (media query)
+
+EdgeLedger => 
+
+Html / Css Application Using Flexbox To Make A Responsive Website For Mobile (Media Query)
+
+Click Here : https://riahiachraf.github.io/EdgeLedger-Responsive-Website-For-Mobile-Using-Flexbox/
