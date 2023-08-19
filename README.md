@@ -9,6 +9,7 @@ Build By :
 - CSS
 - MediaQeury
 - FlexBox
+- Javascript
 
 Deployed : 
 - Github 
