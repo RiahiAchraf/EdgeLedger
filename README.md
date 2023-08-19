@@ -1,10 +1,13 @@
 # EdgeLedger
-
-Demo: <a href="https://riahiachraf.github.io/EdgeLedger/" target="_blank" rel="noopener noreferrer">Edgeledger</a>
+## World-class financial assistance
 
 A responsive and visually captivating website crafted with precision using HTML and CSS Flexbox.
 
-Build By :
+Demo: <a href="https://riahiachraf.github.io/EdgeLedger/" target="_blank" rel="noopener noreferrer">Edgeledger</a>
+
+
+
+Build :
 - HTML
 - CSS
 - MediaQeury
