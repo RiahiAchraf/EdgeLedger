@@ -1,4 +1,4 @@
-# EdgeLedger-Responsive-Website-For-Mobile-Using-Flexbox.
+# EdgeLedger
 
 A responsive and visually captivating website crafted with precision using HTML and CSS Flexbox,
 
