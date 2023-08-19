@@ -1,6 +1,6 @@
 # EdgeLedger
 
-Demo: [Edgeledger](https://riahiachraf.github.io/EdgeLedger/)
+Demo: <a href="https://riahiachraf.github.io/EdgeLedger/" target="_blank" rel="noopener noreferrer">Edgeledger</a>
 
 A responsive and visually captivating website crafted with precision using HTML and CSS Flexbox.
 
